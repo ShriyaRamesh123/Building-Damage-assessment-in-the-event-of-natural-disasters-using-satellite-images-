@@ -4,4 +4,4 @@ This project uses satellite imagery to automatically evaluate the impact of natu
 
 ## Acknowledgements
 
-This project is based on the work from [building-damage-assessment]((https://github.com/microsoft/building-damage-assessment/tree/main)). 
+This project is based on the work from [building-damage-assessment](https://github.com/microsoft/building-damage-assessment/tree/main). 
